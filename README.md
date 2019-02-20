@@ -1,4 +1,4 @@
-l# Instance Methods Lab Ruby
+# Instance Methods Lab Ruby
 
 ## Objectives
 
